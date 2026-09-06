@@ -224,17 +224,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:22D3EE&height=3&section=header" />
 
-<h2>📈 &nbsp;GitHub Activity</h2>
-
-<div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashasr21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=22D3EE&text_color=C9D1D9&include_all_commits=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasr21&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" />
-<br/><br/>
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashasr21&bg_color=0D1117&color=8B5CF6&line=22D3EE&point=FFFFFF&area=true&hide_border=true" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,100:8B5CF6&height=3&section=header" />
-
 <h2>🤝 &nbsp;Let's Connect</h2>
 
 <div align="center">
