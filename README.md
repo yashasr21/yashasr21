@@ -1,190 +1,184 @@
+<!-- ══════════════════ HEADER BANNER ══════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A0000,50:8B1A0A,100:FF3C00&height=200&section=header&text=Yashas%20R&fontSize=62&fontColor=FFFFFF&fontAlignY=34&desc=DevOps%20%C2%B7%20Cloud%20%C2%B7%20CI/CD%20%C2%B7%20Containers%20%C2%B7%20Kubernetes&descSize=18&descAlignY=54&animation=fadeIn" />
+<!-- ══════════════════ TYPING EFFECT ══════════════════ -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86DE,50:00B894,100:6C5CE7&height=170&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Yashas%20R&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" />
-
-### 📊 Data Analyst | 🧮 SQL &nbsp;|&nbsp; 🐍 Python &nbsp;|&nbsp; 📈 Power BI &nbsp;|&nbsp; 📗 Advanced Excel
-
-<img src="https://komarev.com/ghpvc/?username=yashasravi21&label=Profile%20Views&color=0e75b6&style=flat-square" alt="profile views" />
-<img src="https://img.shields.io/badge/Location-Bengaluru,%20India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-00B894?style=flat-square&logo=checkmarx&logoColor=white" />
-
-</div>
-
----
-
-## 🙋 About Me
-
-- 🔭 I currently work in **Supply Chain Analytics**, owning **category performance, pricing (MOQ policy), supplier scorecards and inventory reporting**
-- 📊 I turn raw transactional data into **decisions people actually act on** — not dashboards nobody opens
-- 🧮 I work daily in **Advanced Excel, Power Query, SQL, Python and Power BI**
-- 🧪 I design and analyse **A/B tests and experiments**, including power analysis, confidence intervals and launch recommendations
-- 🌱 I'm currently deepening **statistical inference, forecasting and dbt-style analytics engineering**
-- 👯 I'm looking to collaborate on **business analytics, experimentation, dashboarding and data storytelling** projects
-- 💬 Ask me about **SQL window functions, funnel analysis, RFM segmentation, cohort retention, A/B testing and Power BI data modelling**
-- ⚡ Fun fact: I'd rather publish the flaw in my own analysis than a clean chart that hides it
-
----
-
-## 🛠️ Tech Stack
-
-### 🐍 Languages & Analysis
-
-<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,git&theme=dark" height="48" />
-
-**Python (pandas • NumPy • SciPy • Matplotlib) • SQL (Joins • CTEs • Window Functions • Aggregation)**
-
-### 📊 BI & Visualisation
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white" />
-
-**Power BI (Star Schema • DAX) • Advanced Excel (Pivot Tables • XLOOKUP • Dynamic Arrays) • Power Query • Interactive Dashboards**
-
-### 📈 Analytics Techniques
-
-<img src="https://img.shields.io/badge/A%2FB%20Testing-E74C3C?style=for-the-badge&logo=googleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Cohort%20Analysis-3498DB?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/RFM%20Segmentation-9B59B6?style=for-the-badge&logo=simpleanalytics&logoColor=white" />
-<img src="https://img.shields.io/badge/Funnel%20Analysis-F39C12?style=for-the-badge&logo=googletagmanager&logoColor=white" />
-
-**Hypothesis Testing • Power & Sample Size • Confidence Intervals • Regression • Forecasting • Root-Cause Analysis**
-
-### ⚙️ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=github,vscode,powershell&theme=dark" height="48" />
-<img src="https://img.shields.io/badge/Dynamics%20365-002050?style=for-the-badge&logo=microsoftdynamics365&logoColor=white" />
-
-**Git & GitHub • GitHub Pages • VS Code • Microsoft Dynamics 365 Business Central • Power Apps**
-
----
-
-## 📂 Featured Projects
-
-### 🛒 Customer & Assortment Value Analysis — UK E-commerce Retailer
-
-`Python` • `SQL` • `Cohort Analysis` • `RFM Segmentation`
-
-- 🎯 Analysed **541,909 real transactions** to find that **26% of customers drive 68.7% of revenue**
-- 📦 Identified that the **top 21.6% of the product range earns 80% of sales** — a direct assortment recommendation
-- 💰 Flagged **206 lapsed accounts worth £459k** for win-back targeting
-- 🧱 Built a 5-stage Python pipeline, 8 SQL analyses and a **14-check data-quality gate**
-
-**[🔗 Live Dashboard](https://yashasr21.github.io/online-retail-customer-value)** &nbsp;•&nbsp; **[💻 Code](https://github.com/yashasr21/online-retail-customer-value)**
-
----
-
-### 🧪 A/B Test & Conversion Funnel Analysis — Product Experiment
-
-`Experiment Design` • `SQL Window Functions` • `Hypothesis Testing` • `Python`
-
-- 🔬 Analysed a **randomised experiment on 90,189 users**, fixing the primary metric, sample size and power **before** looking at results
-- 📉 Measured a **0.82 pp drop in 7-day retention** (95% CI −1.33 to −0.31, p = 0.0016) and recommended **against launch**
-- 🪜 Built an **8-stage conversion funnel in SQL** using window functions, isolating a **35% drop-off** at the earliest stage
-- 🚩 Caught and publicly reported a **sample ratio mismatch** most analyses would have missed
-
-**[🔗 Live Dashboard](https://yashasr21.github.io/Cookie_Cats_Gate_Experiment)** &nbsp;•&nbsp; **[💻 Code](https://github.com/yashasr21/Cookie_Cats_Gate_Experiment)**
-
----
-
-### 🏗️ Infrastructure Cost & Schedule Overrun Analysis — Government Data
-
-`Power BI` • `DAX` • `Python` • `Logistic Regression`
-
-- 📊 Quantified **₹5.71 lakh crore of net cost overrun (20.7%)** across **1,817 government projects**
-- ⏱️ Found **45.7% of projects behind schedule**, with **one sector driving 42.6% of total overrun from just 13% of projects**
-- 🤖 Built a **logistic regression overrun model (AUC 0.69)** plus a Power BI **star schema with DAX measures**
-- ✅ Backed by a **12-check data-quality gate** and full data provenance
-
-**[🔗 Live Dashboard](https://yashasr21.github.io/mospi-project-overrun)** &nbsp;•&nbsp; **[💻 Code](https://github.com/yashasr21/mospi-project-overrun)**
-
----
-
-## 🌱 Currently Learning
-
-```text
-📊  Advanced Statistical Inference
-📈  Time Series Forecasting
-🧱  Analytics Engineering (dbt-style modelling)
-🐍  Python for Automation & Reporting
-☁️  Cloud Data Warehousing
-🗣️  Data Storytelling for Business Stakeholders
-```
-
----
-
-## 🎯 My Data Analytics Roadmap
-
-```text
-Advanced Excel & Google Sheets
-        ↓
-SQL (Joins → CTEs → Window Functions)
-        ↓
-Python for Data Analysis (pandas • NumPy)
-        ↓
-Data Cleaning & Quality Gates
-        ↓
-Power BI & DAX Modelling
-        ↓
-Statistics & A/B Testing
-        ↓
-Funnel • Cohort • RFM Analysis
-        ↓
-Forecasting & Predictive Modelling
-        ↓
-Analytics Engineering ☁️
-        ↓
-Business Impact 🚀
-```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yashasravi21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasravi21&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashasravi21&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=yashasravi21&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%" />
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yashas-r-66336a3b5/">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=2800&pause=900&color=FF3C00&center=true&vCenter=true&width=680&lines=Aspiring+DevOps+Engineer;I+build+CI%2FCD+pipelines+with+Jenkins+%2B+Docker;I+deploy+containers+on+AWS+and+Kubernetes;I+monitor+everything+with+Prometheus+%2B+Grafana;Learn+%E2%80%A2+Automate+%E2%80%A2+Deploy+%E2%80%A2+Monitor+%E2%80%A2+Scale" alt="What I do" />
+</a>
+<br/>
+<a href="https://www.linkedin.com/in/yashas-r-66336a3b5/">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 <a href="mailto:yashasravi2101@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/yashasr21">
-<img src="https://img.shields.io/badge/Portfolio%20Repos-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-### 📊 Clean • Analyse • Visualise • Recommend • Measure
-
-**Turning messy business data into decisions people can act on.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,50:00B894,100:2E86DE&height=110&section=footer" width="100%" />
-
+  <img src="https://img.shields.io/badge/Email%20Me-FF3C00?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<br/>
+<img src="https://komarev.com/ghpvc/?username=yashasravi21&label=Profile%20Views&color=FF3C00&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/badge/Based%20in-Bengaluru,%20India-1A0000?style=for-the-badge&logo=googlemaps&logoColor=FF3C00" alt="Location" />
+<img src="https://img.shields.io/badge/Open%20to-DevOps%20%26%20Cloud%20Roles-C1121F?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to work" />
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3C00,100:C1121F&height=3&section=header" />
+<!-- ══════════════════ ABOUT ══════════════════ -->
+👨‍💻  About Me
+```yaml
+name: Yashas R
+role: Aspiring DevOps Engineer
+location: Bengaluru, India
+currently_building: CI/CD automation + containerised deployment
+                    on Jenkins, Docker, AWS EC2 and Amazon ECR
+currently_learning: [ Kubernetes, Terraform, Azure, Prometheus, Grafana, Loki ]
+ask_me_about:       [ Linux, Git, Jenkins, Docker, Kubernetes, AWS, Shell Scripting ]
+contact:            yashasravi2101@gmail.com
+fun_fact:           "If I have to do it twice, I script it."
+```
+🔭  Working on CI/CD automation and containerised application deployment with Jenkins, Docker, AWS EC2 and Amazon ECR
+🌱  Learning Kubernetes, Terraform, Microsoft Azure, Prometheus, Grafana, Loki and production DevOps practices
+👯  Open to collaborating on cloud infrastructure, CI/CD pipelines and open-source DevOps projects
+💬  Ask me about Linux, Git, Jenkins, Docker, Kubernetes, AWS, Azure, shell scripting, monitoring and logging
+📫  Reach me at yashasravi2101@gmail.com or on LinkedIn
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C1121F,100:FF3C00&height=3&section=header" />
+<!-- ══════════════════ TECH STACK ══════════════════ -->
+🚀  My DevOps Toolbox
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+🐧  OS & Scripting
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,python&theme=dark" />
+`Linux` `Ubuntu` `Bash` `Python`
+</td>
+<td align="center" width="50%">
+🔄  Version Control & CI/CD
+<img src="https://skillicons.dev/icons?i=git,github,jenkins,maven&theme=dark" />
+`Git` `GitHub` `Jenkins` `Maven`
+</td>
+</tr>
+<tr>
+<td align="center">
+🐳  Containers & Orchestration
+<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" />
+`Docker` `Compose` `Kubernetes`
+</td>
+<td align="center">
+☁️  Cloud Platforms
+<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" />
+`EC2` `S3` `ECR` `IAM` `VPC` `AKS` `ACR`
+</td>
+</tr>
+<tr>
+<td align="center">
+🏗️  Infrastructure as Code
+<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" />
+`Terraform` `Ansible` `IaC`
+</td>
+<td align="center">
+📊  Monitoring & Logging
+<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
+`Prometheus` `Grafana` `Loki` `Promtail`
+</td>
+</tr>
+</table>
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3C00,100:C1121F&height=3&section=header" />
+<!-- ══════════════════ PROJECTS ══════════════════ -->
+🛠️  Featured Projects
+<details open>
+<summary><b>🔄 &nbsp;CI/CD Pipeline Automation</b> &nbsp;— <i>build → image → registry → deploy, with no manual steps</i></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon%20ECR-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+⚙️  Automated build and deployment of a Java application with a Jenkins pipeline
+🐳  Built Docker images on every commit and pushed them to Amazon ECR
+☁️  Hosted the whole CI/CD environment on AWS EC2
+🔁  Wired up checkout → build → containerise → deploy end to end
+<!-- Add the repo link here once it is public:
+</details>
+<details>
+<summary><b>📊 &nbsp;Infrastructure Monitoring &amp; Centralized Logging</b> &nbsp;— <i>metrics, logs and alerts in one place</i></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+<img src="https://img.shields.io/badge/Loki-F5A800?style=flat-square&logo=grafana&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+</p>
+📈  Scraped CPU, memory, disk and network metrics with Prometheus and Node Exporter
+📊  Built Grafana dashboards so host health is readable at a glance
+📝  Shipped logs from every node into Loki using Promtail
+🚨  Set alert rules to catch problems before users do
+</details>
+<details>
+<summary><b>☸️ &nbsp;Containerized Application Deployment</b> &nbsp;— <i>from Dockerfile to running pods</i></summary>
+<br/>
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+🐳  Containerised the application and kept image size lean
+☸️  Deployed to Kubernetes using Deployments, Services, ConfigMaps and Secrets
+🔄  Triggered rollouts automatically from Jenkins
+☁️  Integrated AWS services into the deployment architecture
+</details>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C1121F,100:FF3C00&height=3&section=header" />
+<!-- ══════════════════ ROADMAP ══════════════════ -->
+🎯  My DevOps Roadmap
+```mermaid
+flowchart LR
+    A["🐧 Linux &amp; Shell"] --> B["🔧 Git &amp; GitHub"]
+    B --> C["🔄 Jenkins &amp; CI/CD"]
+    C --> D["🐳 Docker"]
+    D --> E["☸️ Kubernetes"]
+    E --> F["☁️ AWS + Azure"]
+    F --> G["🏗️ Terraform / IaC"]
+    G --> H["📊 Prometheus + Grafana"]
+    H --> I["📝 Loki + Logging"]
+    I --> J["🔐 DevSecOps"]
+    J --> K["🚀 Production DevOps"]
 
-<!--
-**yashasr21/yashasr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    classDef done fill:#FF3C00,stroke:#C1121F,stroke-width:2px,color:#1A0000
+    classDef learning fill:#FF9243,stroke:#C1121F,stroke-width:2px,color:#2A0A00
+    classDef next fill:#161B22,stroke:#30363D,stroke-width:2px,color:#8B949E
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    class A,B,C,D done
+    class E,F,G,H learning
+    class I,J,K next
+```
+<div align="center">
+`🟥 Comfortable`    `🟧 Learning right now`    `⬛ Up next`
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF3C00,100:C1121F&height=3&section=header" />
+<!-- ══════════════════ STATS ══════════════════ -->
+📈  GitHub Activity
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yashasravi21&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF3C00&icon_color=FF9243&text_color=C9D1D9&include_all_commits=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasravi21&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF3C00&text_color=C9D1D9&langs_count=8" />
+<br/><br/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashasravi21&bg_color=0D1117&color=FF3C00&line=FF9243&point=FFFFFF&area=true&hide_border=true" />
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=yashasravi21&theme=monokai&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:C1121F,100:FF3C00&height=3&section=header" />
+<!-- ══════════════════ CONNECT ══════════════════ -->
+🤝  Let's Connect
+<div align="center">
+<a href="https://www.linkedin.com/in/yashas-r-66336a3b5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:yashasravi2101@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FF3C00?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/yashasravi21">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<br/><br/>
+Learn  •  Automate  •  Deploy  •  Monitor  •  Scale
+Building my way toward becoming a production-ready DevOps engineer.
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3C00,50:8B1A0A,100:1A0000&height=150&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=26&fontColor=FFFFFF&fontAlignY=68" />
