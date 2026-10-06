@@ -6,7 +6,6 @@
 <a href="https://www.linkedin.com/in/yashas-r-66336a3b5/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:yashasravi2101@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <br/>
-<img src="https://komarev.com/ghpvc/?username=yashasr21&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/Based%20in-Bengaluru,%20India-0F0C29?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Location" />
 <img src="https://img.shields.io/badge/Open%20to-Data%20Analyst%20Roles-22D3EE?style=for-the-badge&logo=handshake&logoColor=0F0C29" alt="Open to work" />
 </div>
@@ -132,9 +131,10 @@
 </p>
 <p>Daily load from Grid-India's published reports, joined to real weather data, to forecast how much power the state will draw tomorrow.</p>
 <ul>
-<li>Built from official daily load reports, not a sample dataset</li>
-<li>Weather features pulled live from the Open-Meteo API</li>
-<li>Forecasts validated against held-out days, not fitted in-sample</li>
+<li><b>3,892</b> usable days of Karnataka grid data across 11 years</li>
+<li>Forecast error down to <b>1.68% MAPE</b>, <b>38%</b> better than the best simple baseline</li>
+<li>Demand grew <b>4.75%</b> a year; March runs <b>43.2%</b> above July</li>
+<li>Weather pulled live from the Open-Meteo API; <b>13</b> quality checks pass before analysis</li>
 </ul>
 <p>
 <a href="https://yashasr21.github.io/power-demand-forecast/"><img src="https://img.shields.io/badge/▶%20Live%20Dashboard-8B5CF6?style=for-the-badge" /></a>
@@ -150,9 +150,10 @@
 </p>
 <p>Three years of complaints from the US CFPB database — a 9 GB export — asking which ones end with the company paying out.</p>
 <ul>
-<li>Full-size real export, cleaned and modelled locally</li>
-<li>Target chosen around fields the regulator actually still publishes</li>
-<li>Findings written up in SQL alongside the model</li>
+<li><b>17.5 million rows, 9.3 GB</b> processed in chunks on a laptop</li>
+<li><b>2,315,601</b> complaints kept, with every filter's effect reported</li>
+<li>Prepaid card, credit card and checking are <b>9.9%</b> of complaints but <b>82.0%</b> of payouts</li>
+<li>Relief rate ranges from <b>0.1%</b> to <b>19.8%</b> across product lines</li>
 </ul>
 <p>
 <a href="https://yashasr21.github.io/consumer-complaints-analysis/"><img src="https://img.shields.io/badge/▶%20Live%20Dashboard-8B5CF6?style=for-the-badge" /></a>
@@ -170,9 +171,10 @@
 </p>
 <p>A transit feed, hospital locations and ward boundaries joined together to answer a question the city actually cares about.</p>
 <ul>
-<li>Real GTFS transit data joined to ward-level boundaries</li>
-<li>Access measured per ward, not as a single city-wide average</li>
-<li>Assumptions and their limits written up openly</li>
+<li><b>1.52 million</b> bus stop-times joined to <b>198</b> wards and <b>51</b> verified hospitals</li>
+<li><b>1,033,678</b> people (<b>12.2%</b> of the city) are 45+ minutes from a hospital by bus</li>
+<li>Varthur: hospital 5 km away, but a typical bus trip takes <b>1 hr 40 min</b></li>
+<li><b>18</b> quality assertions pass on the output</li>
 </ul>
 <p>
 <a href="https://yashasr21.github.io/bengaluru-bus-access/"><img src="https://img.shields.io/badge/▶%20Live%20Dashboard-8B5CF6?style=for-the-badge" /></a>
@@ -188,11 +190,13 @@
 </p>
 <p>A mobile-game experiment on where to place the progression gate, treated with the rigour a real experiment deserves.</p>
 <ul>
-<li>Retention tested at day 1 and day 7, not just averages compared</li>
-<li>Funnel drop-off traced stage by stage</li>
-<li>Significance and effect size reported side by side</li>
+<li><b>90,189</b> players; metric, alpha and stopping rule fixed <b>before</b> looking at results</li>
+<li>Day-7 retention fell <b>0.82 pp</b> (19.02% → 18.20%), p = 0.0016</li>
+<li>Recommended <b>not shipping</b> the change</li>
+<li>Flagged an unresolved sample-ratio mismatch instead of hiding it</li>
 </ul>
 <p>
+<a href="https://yashasr21.github.io/Cookie_Cats_Gate_Experiment/"><img src="https://img.shields.io/badge/▶%20Live%20Dashboard-8B5CF6?style=for-the-badge" /></a>
 <a href="https://github.com/yashasr21/Cookie_Cats_Gate_Experiment"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 </td>
